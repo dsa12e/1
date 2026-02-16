@@ -1,3 +1,4 @@
 TEST TEST TEST
 
 # Added on edit_text_1
+This note was added on GitHub.
