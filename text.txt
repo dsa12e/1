@@ -5,4 +5,6 @@ This note was added on GitHub.
 
 
 
-Conflict line. (edit_text_1)
+
+Conflict line. (edit_text_2)
+
